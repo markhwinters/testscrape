@@ -1,12 +1,3 @@
-You said:
-create a readme file for this github repo
-
-https://github.com/markhwinters/testscrape
-ChatGPT said:
-ChatGPT
-
-Based on the contents of your repository, here's a suggested README.md file:
-
 # testscrape
 
 A simple web scraping project using Node.js to extract book information and save it to a JSON file.
